@@ -1,0 +1,2 @@
+# Water_Quality_Predictions
+ **Water Quality Prediction - College Project** 🌊💧   This project predicts **water potability (safe or unsafe for drinking)** using **machine learning models** like XGBoost and Random Forest. It includes **data preprocessing, feature importance analysis, model evaluation, and visualizations** to enhance insights. Built as part of a **college project**, it uses Python, Pandas, Scikit-learn, and Seaborn for analysis and visualization. 🚀
